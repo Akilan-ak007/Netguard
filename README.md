@@ -205,8 +205,8 @@ Tracks:
 
 ## 👨‍💻 Author
 
-**Inba**
-Cybersecurity & Full-Stack Developer
+**Inbavarunan**
+Cybersecurity Professional & Full-Stack Developer
 
 ---
 
