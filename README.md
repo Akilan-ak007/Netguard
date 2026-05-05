@@ -210,12 +210,6 @@ Cybersecurity Professional & Full-Stack Developer
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## ⭐ Project Vision
 
 NetGuard is designed to evolve into a **lightweight open-source firewall platform**, bridging the gap between simple host blocking and enterprise-grade network control.
